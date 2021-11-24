@@ -3,7 +3,7 @@ Vue3[^1] &amp; Quasar: A Weather App including Pollution and optional marine wea
 
 
 **My Weather is available for:**
-- Internet Browser (https://bamboo-net.de/)
+- Internet Browser (https://www.hase-zheng.net/myWeather)
 - PWA (Progressive Web App, ⇒ installable on Smartphone, Desktop)
 - Desktop App (⇒ installable on Linux, MacOS, Windows)
 
